@@ -5,7 +5,7 @@ This was created using Unreal Engine 4 Version 4.20 for anyone interested in che
 
 Here is a [link to my itch.io](https://devoncurrent.itch.io/cube-rapture) where it is hosted.
 
-Here is [the ludum-dare page](https://ldjam.com/events/ludum-dare/43/cube-rapture) where this projec was submitted.
+Here is [the ludum-dare page](https://ldjam.com/events/ludum-dare/43/cube-rapture) where this project was submitted.
 
 # About
 Ludum Dare 43 game
